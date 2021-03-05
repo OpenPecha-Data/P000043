@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000043
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། སྔ་འགྱུར་བཀའ་གཏེར་ཤིང་རྟའི་ལམ་སྲོལ་ཆོས་ཀྱི་རྒྱལ་པོ་སྨིན་གླིང་པའི་བསྟན་པ་རྒྱས་པའི་སྨོན་ལམ་རྡོ་རྗེའི་གསུང་གི་འགྲེལ་པ་དགེ་མཚན་ལྷ་ཡི་རྔ་ཆེན་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
-  sku: SHE-DKR-15
   layers:
   - book_title
   - author
+  id: SHE-DKR-15
 web_metadata:
   title:
     en: A Magnificent Divine Drum:A Commentary on the “Vajra Speech,” a Prayer for
